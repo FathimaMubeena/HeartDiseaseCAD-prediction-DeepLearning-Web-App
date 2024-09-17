@@ -52,6 +52,10 @@ To accurately predict the presence of heart disease in a patient using a Keras n
 
 ## Results and Model Evaluation:
 
+Deployed model :
+![result_Streamlit_CNN_prediction.png](src%2Fmain%2Fresources%2Fresult_Streamlit_CNN_prediction.png)
+
+
 ## Business Impact:
 End users will be able to use the web app built off of this model to predict the presence of coronary artery disease (CAD) in patients. This will enable doctors to make more informed decisions quickly, improving patient outcomes. The model's high accuracy ensures that true cases of CAD are identified, while minimizing false positives, thus enhancing the reliability of diagnoses. This tool will streamline the diagnostic process, allowing healthcare providers to serve more patients efficiently, ultimately leading to better healthcare delivery and increased patient satisfaction
 
